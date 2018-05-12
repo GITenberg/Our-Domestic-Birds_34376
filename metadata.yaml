@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37002'
     url: http://www.gutenberg.org/2009/agents/37002
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34376#Our-Domestic-Birds
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2010-11-22'
 gutenberg_type: Text
